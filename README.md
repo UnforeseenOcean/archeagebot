@@ -15,6 +15,7 @@ archeagebot
 Из кода:
 ===========
 
+<pre>
 ...
 int YellowTextMaxR = 245;
 int YellowTextMinR = 135;
@@ -113,6 +114,7 @@ new VisionForm(){
     Object = true
 },
 ...
+</pre>
 
 ===========
 
